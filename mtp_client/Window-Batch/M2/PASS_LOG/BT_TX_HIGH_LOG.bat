@@ -1,0 +1,1 @@
+set BT_TX_HIGH=PASS 

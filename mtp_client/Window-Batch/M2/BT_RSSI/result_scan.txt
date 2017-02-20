@@ -1,0 +1,21 @@
+SerialFile=\\.\com53
+batch mode start
+ee:35:74:bd:33:41	-77
+f4:b8:5e:de:62:d1	-90
+e0:e5:cf:ae:27:2a	-79
+98:7b:f3:52:ab:83	-93
+5f:17:d7:35:89:05	-91
+e1:b4:ae:4d:66:e5	-89
+ab:cd:ef:55:66:88	-43
+d3:32:eb:3f:ce:d5	-90
+f5:70:66:6d:b8:3d	-78
+f3:15:19:10:d1:22	-62
+de:00:59:74:3f:07	-90
+e9:bd:ee:06:07:66	-79
+ab:cd:ef:55:66:88	-44
+b8:78:2e:2a:72:35	-88
+e0:e5:cf:ad:a5:b1	-81
+f5:70:66:6d:b8:3d	-74
+ee:35:74:bd:33:41	-78
+f done
+batch mode complete

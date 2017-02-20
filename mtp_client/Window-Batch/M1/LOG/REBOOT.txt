@@ -1,0 +1,3 @@
+Set CMD=REBOOT
+Set REBOOT=FAIL
+Connect FAIL

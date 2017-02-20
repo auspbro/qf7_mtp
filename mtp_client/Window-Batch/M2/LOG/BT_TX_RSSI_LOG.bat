@@ -1,0 +1,1 @@
+set BT_RSSI_VALUE=-73 

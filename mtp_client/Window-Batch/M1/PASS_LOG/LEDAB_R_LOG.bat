@@ -1,0 +1,2 @@
+Set CMD=LEDAB_R
+Set LEDAB_R=PASS

@@ -1,0 +1,9 @@
+SerialFile=\\.\com53
+batch mode start
+e0:62:3a:55:bc:a7	-39
+e0:62:3a:55:bc:a7	-39
+e0:62:3a:55:bc:a7	-40
+e0:62:3a:55:bc:a7	-40
+e0:62:3a:55:bc:a7	-39
+f done
+batch mode complete

@@ -1,0 +1,4 @@
+
+---------- C:\TESTPROGRAM\QF7\M2\BT_RSSI\RESULT_SCAN.TXT
+ab:cd:ef:55:66:88	-43
+ab:cd:ef:55:66:88	-44

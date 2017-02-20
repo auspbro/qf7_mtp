@@ -1,0 +1,2 @@
+Set CMD=ALS_BL
+Set ALS_BL_FILE=FAIL

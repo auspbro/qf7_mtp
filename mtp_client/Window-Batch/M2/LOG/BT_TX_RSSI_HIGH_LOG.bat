@@ -1,0 +1,1 @@
+set BT_HIGH_RSSI_VALUE=-44 

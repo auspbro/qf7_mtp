@@ -1,0 +1,2 @@
+Set CMD=ALS_I2C
+Set ALS_I2C=PASS

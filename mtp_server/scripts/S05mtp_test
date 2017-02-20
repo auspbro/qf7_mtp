@@ -1,0 +1,9 @@
+#!/bin/sh
+DAEMON=/usr/sbin/mtp_server
+
+if [ -f /$DAEMON ] ; then
+	echo "[QCI] mtp_server start!!!"
+	$DAEMON &
+else
+	echo "[QCI] mtp_server start fail!!!"
+fi
